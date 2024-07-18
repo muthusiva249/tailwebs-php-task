@@ -34,3 +34,8 @@ teacher_portal/
 
 5.Code Implementation:
 Follow the code provided earlier and create the corresponding files inside your project structure.
+
+
+url to check locally
+tailweb_task_teacher_portal
+http://localhost/tailweb_task_teacher_portal/public/login.php
