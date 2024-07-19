@@ -37,7 +37,7 @@ session_start();
                 <i class="fa fa-lock fa-lg fa-fw" aria-hidden="true"></i>
                 <i class="fa fa-eye fa-lg fa-fw toggle-password" aria-hidden="true" onclick="togglePassword()"></i>
             </div>
-            <a href="#" class="forgot-pass">Forgot Password?</a>
+            <a href="#" class="forgot-pass" onclick="window.location.href='forget_password.php'">Forgot Password?</a>
             <input type="button" class="login" value="Login">
         </form>
         <button onclick="window.location.href='register.php'">Register</button>
